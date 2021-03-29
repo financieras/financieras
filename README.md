@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/financieras">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=financieras&count_private=true&show_icons=true&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=financieras&layout=compact&theme=nord&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 <!--
 **financieras/financieras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
